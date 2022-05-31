@@ -1,9 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://twitter.com/prabhat4ever">
   <img align="left" alt="Prahat Thapa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prabhat4ever/">
   <img align="left" alt="Prabhat Thapa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://prabhatthapa.blogspot.com/">
+  <img align="left" alt="Prabhat Thapa's Blog" width="22px" src="./logos/blogger.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prabhatthapa.prabhatthapa)
@@ -28,7 +32,6 @@ I am well-versed in agile methodologies and extreme programming practices.
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-
 
 </p>
 
