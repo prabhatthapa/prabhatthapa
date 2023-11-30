@@ -1,10 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prabhat4ever)
-[![Twitter](https://skillicons.dev/icons?i=linkedin)]([https://twitter.com/prabhat4ever](https://www.linkedin.com/in/prabhatthapa/))
-<a href="https://prabhatthapa.blogspot.com/" target="_blank">
-  <img align="left" alt="Prabhat Thapa's Blog" width="22px" src="./logos/blogger.png" />
-</a>
+[![Twitter](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatthapa/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prabhatthapa.prabhatthapa)
 
