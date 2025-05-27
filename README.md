@@ -3,8 +3,6 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/prabhat4ever)
 [![Twitter](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhatthapa/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=prabhatthapa.prabhatthapa)
-
 Hi, I'm Prabhat Thapa, I am a full-stack software engineer, experience in various domains using technologies such as ReactJS, NodeJS, TypeScript, GraphQL, and more.
 
 I am well-versed in agile methodologies and extreme programming practices.
